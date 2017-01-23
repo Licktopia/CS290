@@ -1,0 +1,133 @@
+    <title>title</title>
+
+  <body>
+<table>
+ <caption>Game Leaderboard</caption>
+ <thead>
+  <tr id="one">
+   <th> 
+   <th> Name
+   <th> Avg Score
+   <th> Country
+   <th> Avg Time
+   <th> High Score
+ <tbody>
+  <tr>
+   <th class="notbold"> <i>1</i>
+   <td> badDude56
+   <td> 12543
+   <td> USA
+   <td> 5:45
+   <td> 21375
+  <tr>
+   <th class="notbold"> <i>2</i>
+   <td> SKinnySAnta
+   <td> 11943
+   <td> Canada
+   <td> 5:41
+   <td> 20313
+  <tr>
+   <th class="notbold"> <i>3</i>
+   <td> LindseyNoHan
+   <td> 11143
+   <td> USA
+   <td> 5:21
+   <td> 22542
+  <tr>
+   <th class="notbold"> <i>4</i>
+   <td> derKlack
+   <td> 10819
+   <td> Germany
+   <td> 5:19
+   <td> 18253
+  <tr>
+   <th class="notbold"> <i>5</i>
+   <td> killerPanda141
+   <td> 10811
+   <td> Japan
+   <td> 5:12
+   <td> 19745
+  <tr id="six">
+   <td colspan="2">Footer1</td>
+   <td colspan="4">Footer2</td>
+</table>
+<dl>
+   <dt>Champion</dt>    
+   <dd>badDude56</dd>
+   <dt>Country</dt>
+   <dd>USA</dd>
+   <dt>Age</dt>
+   <dd>26</dd>
+   <dt>Level</dt>
+   <dd>MasterWizard</dd>
+</dl>
+<div class="outer-content"><div id="inner-content">
+innercontent
+</div></div>
+<form action="http://classes.engr.oregonstate.edu/eecs/winter2015/cs290-400/tools/class-content/form_tests/check_request.php" method="get">
+<fieldset>
+<legend>Your Preferences:</legend>
+<label>Text here:
+<input type="text" name="text_input" size="30"     maxlength="100">
+</label>
+<br />
+<label>Number here:
+<input type="number" name="numerical_input" size="30" maxlength="100">
+</label>
+<br />
+<label>Password here:
+<input type="password" name="password_input"         size="30" maxlength="100">
+</label>
+<br />    
+<p>Select between?
+<br />
+<br />
+<label>
+<input type="radio" name="candy" value="snickers" />Snickers</label>
+<label>
+<input type="radio" name="candy" value="skittles" />Skittles</label>
+<label>
+<input type="radio" name="candy" value="mentos" />Mentos</label>
+</p>
+<p>      
+ <br />
+        <input type="submit" value="Submit" />        
+        
+</fieldset>
+</form>
+<form action="http://classes.engr.oregonstate.edu/eecs/winter2015/cs290-400/tools/class-content/form_tests/check_request.php" method="post">
+<fieldset>
+<legend>Your Preferences:</legend>
+<label>Text here:
+<input type="text" name="text_input" size="30"     maxlength="100">
+</label>
+<br />
+<label>Number here:
+<input type="number" name="numerical_input" size="30" maxlength="100">
+</label>
+<br />
+<label>Password here:
+<input type="password" name="password_input"         size="30" maxlength="100">
+</label>
+<br />    
+<p>Select between?
+<br />
+<br />
+<label>
+<input type="radio" name="candy" value="snickers" />Snickers</label>
+<label>
+<input type="radio" name="candy" value="skittles" />Skittles</label>
+<label>
+<input type="radio" name="candy" value="mentos" />Mentos</label>
+</p>
+<p>      
+ <br />
+        <input type="submit" value="Submit" />        
+        
+</fieldset>
+</form>
+  </body>
+
+
+   
+  
